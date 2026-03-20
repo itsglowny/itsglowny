@@ -8,14 +8,14 @@ i'm itsglowny a.k.a toadysh, a developer with a passion for old technology. here
 
 * i love playing Minecraft and making videos with my Discord friends
 
-* i enjoy developing Minecraft plugins, Next.js websites, C# executables...
+* i enjoy developing Minecraft plugins, React.js websites, C# executables...
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://img.icons8.com/color/512/nintendo-3ds.png" alt="3ds" width="40" height="40"/>
+<img src="https://github.com/devkitPro/3ds-hbmenu/blob/master/icon.png?raw=true" alt="3ds-homebrew" width="40" height="40"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/minecraft-icon.png" alt="minecraft" width="40" height="40"/>
 </p>
 
