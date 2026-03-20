@@ -15,7 +15,7 @@ i'm itsglowny a.k.a toadysh, a developer with a passion for old technology. here
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://images.icon-icons.com/3525/PNG/512/web_online_internet_global_earth_world_globe_icon_221254.png" alt="web" width="40" height="40"/>
+<img src="https://img.icons8.com/color/512/nintendo-3ds.png" alt="3ds" width="40" height="40"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/minecraft-icon.png" alt="minecraft" width="40" height="40"/>
 </p>
 
